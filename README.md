@@ -5,8 +5,8 @@ Questo progetto simula il controllo di un robot mobile di tipo unicycle in un am
 
 La navigazione verso un punto selezionato con il mouse viene effettuata tramite controllo proporzionale, utilizzando però variabili stimate anziché quelle reali.
 
-<img src="images/noIntersection.png" width="400">
-<img src="images/intersection.png" width="400">
+<img src="images/noIntersection.png" width="600">
+<img src="images/intersection.png" width="600">
 
 
 ---
